@@ -1,0 +1,43 @@
+/* base */
+.base-block {
+  margin-top: 30px;
+  border: 1px dashed #e0e0e0;
+}
+
+.bottom-border {
+  border-bottom: 1px dashed #e0e0e0;
+}
+
+.block-header {
+  padding: 10px;
+  font-weight: bold;
+  color: #003264;
+  background-color: #e6e6e6;
+}
+
+.block-body {
+  padding: 20px 0 20px 40px;
+  background-color: #f3f3f3;
+}
+
+.clearfix:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+
+.fl {
+  float: left;
+}
+
+.fr {
+  float: right;
+}
+
+.base-li {
+  padding-bottom: 20px;
+}
+
+.ml-20 {
+  margin-left: 20px;
+}

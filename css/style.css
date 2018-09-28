@@ -1,0 +1,42 @@
+/* style */
+.wrapper {
+  margin: 0 auto;
+  width: 1000px;
+  outline: 1px dashed #e0e0e0;
+}
+
+.header {
+  padding: 20px 0;
+  text-align: center;
+}
+
+.header h1 {
+  font-size: 34px;
+  color: #003264
+}
+
+.base-info {
+  margin-top: 0;
+}
+
+.base-info .info-right {
+  margin-left: 200px;
+}
+
+.base-info ul {
+  list-style: none;
+}
+
+.work-experience p {
+  padding-bottom: 20px;
+}
+
+.project-experience .project-name {
+  margin-left: -20px;
+  font-weight: bold;
+}
+
+.project-experience .project-two,
+.project-experience .project-three {
+  padding-top: 20px;
+}
